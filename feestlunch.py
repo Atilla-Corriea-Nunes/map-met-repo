@@ -7,4 +7,4 @@ sum1 = num1 * num2
 sum2 = num3 * num4
 sum3 = sum1 + sum2
 
-print('je moet '+ str(sum3) +' betalen')
+print('De feestlunch kost je bij de bakker '+ str(sum3) +' euro voor de '+ str(num1) +' croissantjes en de '+ str(num4)  +' stokbroden als de 3 kortingsbonnen nog geldig zijn!')
